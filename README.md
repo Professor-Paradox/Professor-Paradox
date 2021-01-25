@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 <!-- [![Github Stats](https://github-readme-stats.vercel.app/api?username=Professor-Paradox)](https://github.com/Professor-Paradox/github-readme-stats) -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Professor-Paradox&show_icons=true&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Professor-Paradox&show_icons=true&theme=react&show_owner=true)
