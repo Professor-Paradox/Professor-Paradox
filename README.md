@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 <!-- [![Github Stats](https://github-readme-stats.vercel.app/api?username=Professor-Paradox)](https://github.com/Professor-Paradox/github-readme-stats) -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Professor-Paradox&show_icons=true&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Professor-Paradox&show_icons=true&theme=dark&card_width=100)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Professor-Paradox&repo=LearningProgramming&show_owner=true&card_width=480&langs_count=2&theme=dark)](https://github.com/Professor-Paradox/LearningProgramming)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Professor-Paradox&repo=LearningProgramming&show_owner=true&theme=dark](https://github.com/Professor-Paradox/LearningProgramming)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Professor-Paradox&layout=compact&theme=dark)](https://github.com/Professor-Paradox/)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Professor-Paradox&layout=compact&theme=dark)]
