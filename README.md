@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 same as below img tag
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Professor-Paradox&show_icons=true&theme=dark)
 -->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Professor-Paradox&show_icons=true&theme=dark" width="300px"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Professor-Paradox&layout=compact&theme=dark" width="300px"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Professor-Paradox&show_icons=true&theme=dark" width="60%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Professor-Paradox&layout=compact&theme=dark" width="40%"/>
 
 
