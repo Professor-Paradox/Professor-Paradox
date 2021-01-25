@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 <!-- [![Github Stats](https://github-readme-stats.vercel.app/api?username=Professor-Paradox)](https://github.com/Professor-Paradox/github-readme-stats) -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Professor-Paradox&show_icons=true&theme=dark&show_owner=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Professor-Paradox&show_icons=true&theme=dark)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
