@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+<!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)-->
 
 ### Hi there 👋
 
@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" /> -->
 
 <!-- [![Github Stats](https://github-readme-stats.vercel.app/api?username=Professor-Paradox)](https://github.com/Professor-Paradox/github-readme-stats) -->
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Professor-Paradox&show_icons=true)
