@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Professor-Paradox&repo=LearningProgramming&show_owner=true&card_width=480&langs_count=2&theme=dark)](https://github.com/Professor-Paradox/LearningProgramming)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Professor-Paradox&layout=compact)](https://github.com/Professor-Paradox/)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Professor-Paradox&layout=compact&theme=dark)](https://github.com/Professor-Paradox/)
