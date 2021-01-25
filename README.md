@@ -2,7 +2,7 @@
 -->
 ### Hi there 👋
 
-<img src="./img/Coding.gif" width="250px">
+<img src="./img/Coding.gif" width="350px">
 
 <!--
 **Professor-Paradox/Professor-Paradox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 same as below img tag
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Professor-Paradox&show_icons=true&theme=dark)
 -->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Professor-Paradox&show_icons=true&theme=dark" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Professor-Paradox&layout=compact&theme=dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Professor-Paradox&show_icons=true&theme=dark" width="300px"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Professor-Paradox&layout=compact&theme=dark" width="300px"/>
 
 
